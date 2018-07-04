@@ -17,13 +17,13 @@
     "test": "standard"
   },
   "dependencies": {
-    "pouchdb-adapter-websql-core": "^6.4.3"
+    "pouchdb-adapter-websql-core": "^7.0.0"
   },
   "devDependencies": {
-    "browserify": "^14.0.0",
-    "bundle-collapser": "^1.2.1",
+    "browserify": "^16.2.2",
+    "bundle-collapser": "^1.3.0",
     "mkdirp": "^0.5.1",
     "standard": "^7.1.2",
-    "uglify-js": "^2.7.0"
+    "uglify-js": "^3.4.3"
   }
 }
